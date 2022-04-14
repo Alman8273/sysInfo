@@ -1,0 +1,15 @@
+C:\Users\ajmas\Documents\VScode\C_sharp\sysInfo\bin\Debug\net6.0\sysInfo.exe
+C:\Users\ajmas\Documents\VScode\C_sharp\sysInfo\bin\Debug\net6.0\sysInfo.deps.json
+C:\Users\ajmas\Documents\VScode\C_sharp\sysInfo\bin\Debug\net6.0\sysInfo.runtimeconfig.json
+C:\Users\ajmas\Documents\VScode\C_sharp\sysInfo\bin\Debug\net6.0\sysInfo.dll
+C:\Users\ajmas\Documents\VScode\C_sharp\sysInfo\bin\Debug\net6.0\sysInfo.pdb
+C:\Users\ajmas\Documents\VScode\C_sharp\sysInfo\obj\Debug\net6.0\sysInfo.csproj.AssemblyReference.cache
+C:\Users\ajmas\Documents\VScode\C_sharp\sysInfo\obj\Debug\net6.0\sysInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajmas\Documents\VScode\C_sharp\sysInfo\obj\Debug\net6.0\sysInfo.AssemblyInfoInputs.cache
+C:\Users\ajmas\Documents\VScode\C_sharp\sysInfo\obj\Debug\net6.0\sysInfo.AssemblyInfo.cs
+C:\Users\ajmas\Documents\VScode\C_sharp\sysInfo\obj\Debug\net6.0\sysInfo.csproj.CoreCompileInputs.cache
+C:\Users\ajmas\Documents\VScode\C_sharp\sysInfo\obj\Debug\net6.0\sysInfo.dll
+C:\Users\ajmas\Documents\VScode\C_sharp\sysInfo\obj\Debug\net6.0\refint\sysInfo.dll
+C:\Users\ajmas\Documents\VScode\C_sharp\sysInfo\obj\Debug\net6.0\sysInfo.pdb
+C:\Users\ajmas\Documents\VScode\C_sharp\sysInfo\obj\Debug\net6.0\sysInfo.genruntimeconfig.cache
+C:\Users\ajmas\Documents\VScode\C_sharp\sysInfo\obj\Debug\net6.0\ref\sysInfo.dll
